@@ -1,2 +1,3 @@
 # yii2-x2engine
 基于yii2重新开发x2engine, x2engine是一款优秀的crm管理软件
+原来x2engine是基于yii1开发的，我只是将框架换一下，不会动用原来的模板及结构
